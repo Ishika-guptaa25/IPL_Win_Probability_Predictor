@@ -4,8 +4,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML%20Model-RandomForest-32CD32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
 </p>
 
 ---
@@ -58,8 +56,8 @@ RRR = (runs_left * 6) / balls_left
 
 **Prediction**:
    - A `RandomForestClassifier` or similar model (loaded via `pipe.pkl`) predicts win probability for the batting team.
-
-## 🚀 Getting Startedr
+```
+##  Getting Started
 ```
 ### 1.Install Dependencies
 ```bash
