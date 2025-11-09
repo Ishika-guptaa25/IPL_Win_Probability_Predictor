@@ -29,7 +29,7 @@ It predicts the **winning probability** of IPL teams during a live or simulated 
 
 ## 🗂️ Project Structure  
 
-<img width="824" height="238" alt="image" src="https://github.com/user-attachments/assets/b063dda6-286c-464d-9b28-794261463860" />
+<img width="500" height="238" alt="image" src="https://github.com/user-attachments/assets/b063dda6-286c-464d-9b28-794261463860" />
 
 
 ---
@@ -72,6 +72,6 @@ Ensure that pipe.pkl (your trained model pipeline) is placed in the root directo
 streamlit run app.py
 ```
 
-<p align="center"> <img width="948" height="798" alt="image" src="https://github.com/user-attachments/assets/3c66ecd6-7b46-40a3-af75-c2c0bfc2dcd9" /> </p>
+<p align="center"> <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/3c66ecd6-7b46-40a3-af75-c2c0bfc2dcd9" /> </p>
 This screenshot shows the Streamlit web app interface predicting the win probability between two IPL teams in real time.
 
