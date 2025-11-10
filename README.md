@@ -17,6 +17,16 @@ It predicts the **winning probability** of IPL teams during a live or simulated 
 
 ---
 
+## Try Online
+
+[**Click here to open the deployed app**](https://iplwinprobabilitypredictor-tjwcau8kwyol24pih9r2hy.streamlit.app/)  
+
+or
+
+https://iplwinprobabilitypredictor-tjwcau8kwyol24pih9r2hy.streamlit.app/
+
+---
+
 ## 📌 Features  
 
 ✅ Select **Batting** and **Bowling** teams from all IPL franchises  
