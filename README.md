@@ -37,6 +37,12 @@ https://iplwinprobabilitypredictor-tjwcau8kwyol24pih9r2hy.streamlit.app/
 
 ---
 
+## Demo
+<p align="center"> <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/3c66ecd6-7b46-40a3-af75-c2c0bfc2dcd9" /> </p>
+This screenshot shows the Streamlit web app interface predicting the win probability between two IPL teams in real time.
+
+---
+
 ## 🗂️ Project Structure  
 
 <img width="500" height="238" alt="image" src="https://github.com/user-attachments/assets/b063dda6-286c-464d-9b28-794261463860" />
@@ -80,8 +86,27 @@ Ensure that pipe.pkl (your trained model pipeline) is placed in the root directo
 ### 3. Run the App
 ```bash
 streamlit run app.py
+
 ```
 
-<p align="center"> <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/3c66ecd6-7b46-40a3-af75-c2c0bfc2dcd9" /> </p>
-This screenshot shows the Streamlit web app interface predicting the win probability between two IPL teams in real time.
+## <span style="color:#3776AB;">Future Improvements</span>
 
+Incorporate more match features: pitch report, toss winner, player form
+
+Add live data feed from IPL APIs for automatic updates
+
+Experiment with ensemble ML models or deep learning for better accuracy
+
+Deploy on cloud platforms (Heroku / Streamlit Cloud) for global access
+
+---
+
+## <span style="color:#FF4B4B;">Author</span>
+
+Ishika Gupta
+
+Email: ishikagpt1@gmail.com
+
+GitHub: https://github.com/Ishika-guptaa25
+
+---
