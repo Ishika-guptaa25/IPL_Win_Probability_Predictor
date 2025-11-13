@@ -45,7 +45,8 @@ This screenshot shows the Streamlit web app interface predicting the win probabi
 
 ## 🗂️ Project Structure  
 
-<img width="500" height="238" alt="image" src="https://github.com/user-attachments/assets/b063dda6-286c-464d-9b28-794261463860" />
+<img width="700" height="513" alt="image" src="https://github.com/user-attachments/assets/cb1031fd-7367-45dd-a0a1-792924032b50" />
+
 
 
 ---
